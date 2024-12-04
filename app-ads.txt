@@ -1081,3 +1081,4 @@ e-planning.net, af5a107262468954, RESELLER, c1ba615865ed87b2
 improvedigital.com, 1408, RESELLER
 #GAM
 google.com, pub-7334690504406786, DIRECT, f08c47fec0942fa0
+pubeasy.io, 110016, DIRECT
