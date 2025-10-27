@@ -1082,8 +1082,6 @@ improvedigital.com, 1408, RESELLER
 #GAM
 google.com, pub-7334690504406786, DIRECT, f08c47fec0942fa0
 pubeasy.io, 110016, DIRECT
-
-
 #apl
 applovin.com, ecd9da75b92d62626c2ef718acb58392, DIRECT
 adyoulike.com, 2d578cf695c89ec2ba707280319d2020, RESELLER
